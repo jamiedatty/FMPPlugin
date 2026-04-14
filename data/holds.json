@@ -1,0 +1,82 @@
+{
+  "GMMN": [
+    {
+      "fix": "TUPAR",
+      "inbound_track": 172,
+      "turn": "RIGHT",
+      "alt_ft": 8000,
+      "legs_nm": 10,
+      "note": "Primary IAF for ILS 35L/35R"
+    },
+    {
+      "fix": "DOLIR",
+      "inbound_track": 54,
+      "turn": "LEFT",
+      "alt_ft": 10000,
+      "legs_nm": 10,
+      "note": "Used for eastbound arrivals"
+    },
+    {
+      "fix": "UKARU",
+      "inbound_track": 229,
+      "turn": "RIGHT",
+      "alt_ft": 9000,
+      "legs_nm": 10,
+      "note": "Southern sector holding"
+    },
+    {
+      "fix": "TASMI",
+      "inbound_track": 316,
+      "turn": "LEFT",
+      "alt_ft": 11000,
+      "legs_nm": 10,
+      "note": "Northwestern approach holding"
+    }
+  ],
+  "GMMX": [
+    {
+      "fix": "INBER",
+      "inbound_track": 32,
+      "turn": "RIGHT",
+      "alt_ft": 7000,
+      "legs_nm": 8,
+      "note": "Primary holding for GMMX"
+    },
+    {
+      "fix": "RUXOL",
+      "inbound_track": 188,
+      "turn": "LEFT",
+      "alt_ft": 8000,
+      "legs_nm": 8,
+      "note": "Southern holding GMMX"
+    }
+  ],
+  "GMME": [
+    {
+      "fix": "GONID",
+      "inbound_track": 45,
+      "turn": "RIGHT",
+      "alt_ft": 7000,
+      "legs_nm": 8,
+      "note": "Primary holding Rabat-Salé"
+    },
+    {
+      "fix": "RUXOL",
+      "inbound_track": 210,
+      "turn": "LEFT",
+      "alt_ft": 9000,
+      "legs_nm": 10,
+      "note": "Alternate holding"
+    }
+  ],
+  "GMMB": [
+    {
+      "fix": "LAMSO",
+      "inbound_track": 270,
+      "turn": "RIGHT",
+      "alt_ft": 6000,
+      "legs_nm": 8,
+      "note": "Benslimane holding"
+    }
+  ]
+}
